@@ -28,8 +28,6 @@ This project provides a centralized system for managing student clubs. It suppor
 - **Laravel** 10+
 - **MySQL** (Database)
 - **Blade** (Frontend templating)
-- **Tailwind CSS** or **Bootstrap** (Styling)
-- Optional use of **AJAX/jQuery** for dynamic interactions
 
 ## 📦 Installation Guide
 
